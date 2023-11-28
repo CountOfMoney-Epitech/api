@@ -35,7 +35,7 @@ lerna-debug.log*
 !.vscode/extensions.json
 
 # Docker 
-*.Dockerfile
+Dockerfile
 .dockerignore
 entrypoint.sh
 .env
